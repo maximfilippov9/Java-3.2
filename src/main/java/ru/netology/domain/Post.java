@@ -8,6 +8,7 @@ public class Post {
     private int likesInfo;
     private int commentsInfo;
     private int viewsInfo;
+    private int repostsInfo;
 
     // +get\set
 }
